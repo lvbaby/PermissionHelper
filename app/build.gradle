@@ -7,7 +7,7 @@ android {
         minSdkVersion min_sdk_version.toInteger()
         targetSdkVersion target_sdk_version.toInteger()
         versionCode 1
-        versionName supportLibraryVersion
+        versionName "1.0.0"
     }
     buildTypes {
         release {
